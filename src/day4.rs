@@ -1,6 +1,5 @@
 extern crate regex;
 
-use std::slice::SliceConcatExt;
 use std::collections::HashMap;
 
 use self::regex::Regex;

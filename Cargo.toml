@@ -5,3 +5,5 @@ authors = ["Yale Cason <yale.cason@gmail.com>"]
 
 [dependencies]
 regex = "*"
+rust-crypto = "*"
+rayon = "*"
