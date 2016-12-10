@@ -7,3 +7,4 @@ authors = ["Yale Cason <yale.cason@gmail.com>"]
 regex = "*"
 rust-crypto = "*"
 rayon = "*"
+lazy_static = "*"
